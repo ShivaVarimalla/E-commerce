@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/e-commere/static/css/main.5bff10ad.chunk.css",
+    "main.js": "/e-commere/static/js/main.da4d12b7.chunk.js",
+    "main.js.map": "/e-commere/static/js/main.da4d12b7.chunk.js.map",
+    "runtime-main.js": "/e-commere/static/js/runtime-main.0350c4a7.js",
+    "runtime-main.js.map": "/e-commere/static/js/runtime-main.0350c4a7.js.map",
+    "static/js/2.c180c8f2.chunk.js": "/e-commere/static/js/2.c180c8f2.chunk.js",
+    "static/js/2.c180c8f2.chunk.js.map": "/e-commere/static/js/2.c180c8f2.chunk.js.map",
+    "index.html": "/e-commere/index.html",
+    "precache-manifest.6cee7941b28443005e193911816ed33c.js": "/e-commere/precache-manifest.6cee7941b28443005e193911816ed33c.js",
+    "service-worker.js": "/e-commere/service-worker.js",
+    "static/css/main.5bff10ad.chunk.css.map": "/e-commere/static/css/main.5bff10ad.chunk.css.map",
+    "static/js/2.c180c8f2.chunk.js.LICENSE.txt": "/e-commere/static/js/2.c180c8f2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/e-commere/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0350c4a7.js",
+    "static/js/2.c180c8f2.chunk.js",
+    "static/css/main.5bff10ad.chunk.css",
+    "static/js/main.da4d12b7.chunk.js"
+  ]
+}
