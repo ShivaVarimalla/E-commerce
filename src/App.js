@@ -88,7 +88,7 @@ class App extends React.Component {
       <Route path="/signin"
       render={(props)=>{
         if(this.state.isSigned){
-          return <Redirect to="/"/>
+          return <Redirect to="/products"/>
         }
         else{
           return(
